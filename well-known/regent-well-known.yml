@@ -1,0 +1,57 @@
+generated: '2026-08-26'
+method: probed
+source: >-
+  Live unauthenticated GET of each /.well-known/ path on every REGENT Craft host,
+  2026-08-26. Recorded absence, not a served surface.
+note: >-
+  Every /.well-known/ path probed on both REGENT hosts returned 404. The Webflow origin
+  answers a fixed "Invalid .well-known request" HTML stub for any /.well-known/* path, so
+  no document exists at any of them. No WellKnown or SecurityTxt pointer is emitted in
+  apis.yml, because nothing here is served.
+hosts:
+- host: www.regentcraft.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+    file: null
+  - path: /.well-known/openid-configuration
+    status: 404
+    file: null
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    file: null
+  - path: /.well-known/api-catalog
+    status: 404
+    file: null
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    file: null
+  - path: /.well-known/agent-card.json
+    status: 404
+    file: null
+  - path: /.well-known/agent.json
+    status: 404
+    file: null
+- host: defense.regentcraft.com
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+    file: null
+  - path: /.well-known/openid-configuration
+    status: 404
+    file: null
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+    file: null
+  - path: /.well-known/api-catalog
+    status: 404
+    file: null
+  - path: /.well-known/ai-plugin.json
+    status: 404
+    file: null
+  - path: /.well-known/agent-card.json
+    status: 404
+    file: null
+  - path: /.well-known/agent.json
+    status: 404
+    file: null

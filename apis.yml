@@ -1,8 +1,16 @@
 aid: regent
 name: REGENT Craft
-description: 'REGENT Craft is a company surfaced via the API Evangelist harvest backlog (source: secondary-market)
-  and added to the network as a stub for full-pipeline profiling.'
+description: >-
+  REGENT Craft Inc. is a Rhode Island maritime mobility manufacturer building the Seaglider, an
+  all-electric wing-in-ground-effect (WIG) vessel that floats on its hull, hydrofoils, and then flies
+  within a wingspan of the water's surface at up to 180 mph. The company builds the 12-passenger
+  Viceroy, the larger Monarch, and the uncrewed Squire defense drone, and operates a defense product
+  line for ISR, contested logistics and MEDEVAC missions. REGENT is a vehicle manufacturer rather
+  than a software company: it publishes no developer program, no public API and no machine-readable
+  API contract. It does serve a real, hand-authored llms.txt at its website root, which is the only
+  machine-readable artifact on its public surface.
 url: https://raw.githubusercontent.com/api-evangelist/regent/refs/heads/main/apis.yml
+image: https://cdn.prod.website-files.com/602ad05d28b6c66eb7baa871/69e7a8ff625bdd33565c703d_OG-min.jpg
 x-type: company
 x-source: harvest:secondary-market
 x-tier: stub
@@ -12,6 +20,13 @@ created: '2026-08-26'
 modified: '2026-08-26'
 tags:
 - Company
+- Transportation
+- Maritime
+- Aviation
+- Electric Vehicles
+- Defense
+- Manufacturing
+- Mobility
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -19,5 +34,45 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/regent-domain-security.yml
 - type: Website
-  url: https://forgeglobal.com/regent_stock/
+  url: https://www.regentcraft.com
+- type: Support
+  url: https://www.regentcraft.com/contact
+- type: Blog
+  url: https://www.regentcraft.com/newsroom
+- type: FAQ
+  url: https://www.regentcraft.com/faq
+- type: PrivacyPolicy
+  url: https://www.iubenda.com/privacy-policy/31330003
+- type: LLMsTxt
+  url: llms/regent-llms.txt
+- type: LinkedIn
+  url: https://www.linkedin.com/company/regentcraft/
+x-enrichment:
+  date: '2026-08-26'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
+x-coverage:
+  state: none
+  reason: not-a-software-company
+  detail: >-
+    REGENT Craft manufactures physical Seaglider vessels, not software — its Webflow site has
+    no developer, docs or API section anywhere in its 320-URL sitemap, and every OpenAPI,
+    GraphQL and /.well-known/ probe on both www.regentcraft.com and defense.regentcraft.com
+    404s; the one machine-readable thing it publishes is a hand-authored llms.txt at the site
+    root describing the company and its vessels.
+  evidence:
+  - url: https://www.regentcraft.com/llms.txt
+    status: 200
+  - url: https://www.regentcraft.com/openapi.json
+    status: 404
+  - url: https://www.regentcraft.com/.well-known/api-catalog
+    status: 404
+  - url: https://defense.regentcraft.com/openapi.json
+    status: 404
+  - url: https://www.regentcraft.com/sitemap.xml
+    status: 200
+  checked: '2026-08-26'

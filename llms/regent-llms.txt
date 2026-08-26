@@ -1,0 +1,161 @@
+# REGENT Craft Inc.
+
+> REGENT is pioneering the future of maritime mobility through the development and manufacturing of Seaglider™ vessels, high-speed hydrofoiling wing-in-ground effect (WIG) craft that operate over the water within a wingspan of the surface, combining the speed of an aircraft with the convenience of a boat. A dual use company based in Rhode Island, U.S., REGENT has secured global commercial orders valued at more than $10 billion from leading airline and ferry operators around the world, as well as $15 million in contracts with the U.S. Marine Corps. REGENT has raised more than $100 million from investors including 8090 Industries, Founders Fund, Japan Airlines, and Lockheed Martin.
+
+## What is a Seaglider?
+
+A Seaglider is a wing-in-ground-effect vehicle that operates exclusively over water in one of three modes: floating on its hull, hydrofoiling, or flying in ground effect just above the water's surface. This unique hybrid of aircraft and marine vessel achieves airplane-like speeds at boat-like costs, with zero emissions from its 100% battery-electric propulsion system. Seagliders use existing dock infrastructure and are built to the combined safety standards of modern aircraft and watercraft.
+
+Key performance characteristics (Viceroy, flagship model):
+- Cruise speed: 180 mph (160 knots / 300 kph)
+- Range: 180 statute miles / 160 nautical miles with existing battery technology; upgradeable to 400+ nautical miles with next-generation batteries
+- Capacity: 12 passengers + 2 crew (passenger configuration); 3,500 lbs payload (cargo configuration)
+- Noise: 30 dB quieter than comparable aircraft or helicopters
+- Emissions: Zero (100% battery electric)
+- Cost: Approximately half the price of an aircraft ticket for equivalent routes
+
+## Products
+
+### Viceroy Seaglider (Commercial Flagship)
+URL: https://www.regentcraft.com/seagliders/viceroy
+
+REGENT's 12-passenger flagship vessel for coastal passenger transport, cargo, tourism, offshore logistics, search & rescue, and defense. Key specs:
+- Dimensions: 55 ft length, 65 ft wingspan, 18 ft height
+- Cabin: 26 ft long, 6 ft tall, 5.5 ft wide; 746 cu ft passenger volume; 88 cu ft luggage
+- Max takeoff/landing weight: 15,000 lbs
+- Motors: 12 redundant distributed electric motors (120 kW each), enabling "blown wing" propulsion
+- Avionics: 3-axis autopilot, fly-by-wire steering, synthetic vision, maritime radar, forward-looking sonar, IR camera, marine and aerospace traffic advisory systems
+- Interior configurations: Standard 12-pax, Luxury VIP, Cargo, Offshore, Search & Rescue, Defense
+
+### Monarch Seaglider (Larger Commercial Variant)
+A 50-to-100-passenger Seaglider for higher-capacity coastal routes. First delivery customer: UME Shipping (announced October 2024).
+
+### REGENT Defense — Seaglider Vessels for Military Use
+URL: https://defense.regentcraft.com
+
+Defense-specific Seaglider product line providing high-speed, long-range, low-signature maritime mobility. Defense variants operate at up to 1,400 nautical miles at 160 knots. Seagliders fly below line-of-sight radar using autonomous flight systems within a wingspan of the water's surface.
+
+Defense mission sets include:
+- Intelligence, surveillance & reconnaissance (ISR)
+- Contested logistics and ordinance delivery
+- Rapid infiltration/exfiltration of Special Operations Forces
+- Medical evacuation (MEDEVAC)
+- Ad hoc communications relay
+- Uncrewed surface vessel (USV) replacement: same missions, 9x faster
+
+Defense partners: U.S. Marine Corps, USSOCOM, U.S. Coast Guard, U.S. Navy, Lockheed Martin, IQT (In-Q-Tel)
+
+Defense advisory board includes: General Robert Neller (37th Commandant of the Marine Corps), Admiral William Moran (former Vice Chief of Naval Operations), Admiral Charles Ray (former Vice Commandant, U.S. Coast Guard), James "Hondo" Geurts (former Undersecretary of the Navy), LtGen Michael Dana (former Deputy Commandant, USMC Installations & Logistics), LtG Francis Beaudette (former Commanding General, U.S. Army Special Operations Command), LtGen George Trautman (former Deputy Commandant, Aviation, USMC).
+
+### Squire Seaglider (Defense Drone)
+REGENT's defense-specific unmanned WIG craft. First flight demonstrated April 2026 — the first flight of a defense-specific wing-in-ground-effect craft in the United States.
+
+## Company
+
+### Founders & Leadership
+- **Billy Thalheimer** — Co-Founder & CEO. Background in flight physics and aircraft design (MIT graduate engineering). Led the company to $10B+ commercial backlog, $15M USMC contract, and $100M+ in funding raised.
+- **Mike Klinker** — Co-Founder & CTO. Background in flight controls and autonomous flight software. Led development of full-scale Seaglider prototype through first foil-to-wing transition.
+- **Ted Lester** — VP, Certification (formerly Chief Technologist, GE AiRXOS; Systems Engineering Lead, MITRE)
+- **Mark Duchesne** — VP, Manufacturing (formerly Manufacturing Director, Tesla; SVP Manufacturing, Byton and Northvolt)
+- **Britt Tedeschi** — VP, People
+- **Adam Triolo** — VP, Commercial Business Development (formerly Managing Director, TechJet Aviation; Regional Sales Director Asia Pacific, Textron Aviation)
+- **Tom Huntley** — GM, REGENT Defense; VP, Government Relations (formerly U.S. Coast Guard MH-60T helicopter instructor pilot; U.S. House Appropriations Committee staff)
+- **Larry Wirsing** — VP, Programs (formerly VP Aircraft Development and VP Commercial Programs at Aurora Flight Sciences/Boeing)
+
+### Headquarters & Offices
+- **Primary HQ**: North Kingstown, Rhode Island (chosen for coastal testing environment, maritime composites expertise, and talent access)
+- **Washington, D.C. office**: Opened July 2024 to support certification and government relations
+- **Manufacturing facility**: 255,000 sq ft facility at Quonset Business Park, Rhode Island; groundbreaking January 2025; scheduled to come online 2026
+- **UAE joint venture**: Agreement signed February 2025 with Strategic Development Fund (SDF) for Seaglider manufacturing and aftermarket services in the UAE
+
+### Funding & Investors
+Total raised: $100M+
+- **Series A** (October 2023): $60M, co-led by 8090 Industries and Founders Fund
+
+Strategic investors: Japan Airlines, Alaska Airlines, Mokulele Airlines, Mesa Air, SDF (UAE), NEOM, Mitsui O.S.K. Lines (MOL), H.I.S., IQT, Lockheed Martin
+
+Financial investors: 8090 Industries, Founders Fund, Thiel Capital, Mark Cuban, Point72 Ventures, Valor Equity Partners, Y Combinator, Caffeinated Capital
+
+## Company Timeline
+
+- **December 2020**: REGENT founded by Billy Thalheimer and Mike Klinker
+- **June 2021**: First Viceroy Seaglider order placed by Brittany Ferries; order book reaches $600M by end of year
+- **August 2022**: Rhode Island HQ opens; order book reaches $7B by year end
+- **September 2022**: First flight of quarter-scale Seaglider prototype, proving full "float, foil, fly" mission
+- **April 2023**: Full-scale Viceroy Seaglider mock-up unveiled at RI headquarters
+- **October 2023**: $60M Series A closed; $4.75M U.S. Marine Corps MCWL agreement signed; order book reaches $8B by year end
+- **July 2024**: Washington D.C. office opens
+- **October 2024**: First Monarch Seaglider order announced (UME Shipping); order book reaches $9B by year end
+- **January 2025**: Groundbreaking of 255,000 sq ft manufacturing facility at Quonset Business Park, Rhode Island
+- **February 2025**: UAE joint venture agreement signed with SDF
+- **March 2025**: Sea trials of full-scale Viceroy Seaglider prototype begin (first on-water tests with humans onboard)
+- **June 2025**: Successful first foil testing milestone in sea trials
+- **July 2025**: REGENT Defense product line announced
+- **November 2025**: Seaglider MEDEVAC rescue capabilities demonstrated with U.S. Marine Corps
+- **April 2026**: First flight of Squire Seaglider defense drone — first WIG defense craft flight in the U.S.
+
+## Partners & Customers (Commercial)
+
+Global customers, investors, and operators across ferry, airline, and logistics sectors including:
+
+North America: XXV, Mesa Air, UrbanLink, Surf Air, Fly The Whale, Southern Airways, Mokulele Airlines, Alaska Airlines
+Europe: Ørsted, TotalEnergies, OSM Aviation, Rockton, LCI, Shiphold, Monte, Alilauro, Brittany Ferries, FRS
+MENA: ADNOC, MACNA, Aramex, UME Shipping, NEOM
+Asia: H.I.S., Japan Airlines, MOL, INAEC
+Oceania: Big Sky, Oceanflyer
+South America: Synerjet
+
+## Technology
+
+### Wing-in-Ground Effect (WIG/Ground Effect)
+Seagliders exploit the aerodynamic "ground effect" — increased lift and reduced drag that occurs when an aircraft flies within approximately one wingspan of a surface. By flying over water, Seagliders achieve aircraft-like efficiencies without the altitude or airspace complexity of traditional aviation.
+
+### Three Operating Modes
+1. **Hull mode**: Conventional boat hull for low-speed maneuvering in harbors and docking
+2. **Hydrofoil mode**: Retractable hydrofoils lift the hull out of the water for high-speed water transit with reduced drag and smooth ride
+3. **Ground effect flight**: Wings generate lift, hydrofoils retract, and the craft flies just above the water surface at up to 180 mph
+
+### Autonomous Systems (Defense variants)
+- Underwater perception: wildlife, obstacle, and threat detection below the surface
+- Altitude & wave perception: determining height above water and forward wave state
+- Surface traffic perception: identifying obstacles on the water's surface
+
+### Safety
+- Always within gliding distance of a safe water landing
+- 12 redundant distributed electric motors
+- Combined maritime and aerospace safety standards
+- Avionics suite: synthetic vision, forward-looking sonar, maritime radar, IR camera, traffic advisory systems
+
+## Use Cases
+
+- **Regional coastal commuter ferry replacement**: Boston–Nantucket, island-to-island routes, bay crossings
+- **Interisland transport**: Hawaii, Southeast Asia, Aegean, Caribbean, Pacific Islands
+- **Cargo and logistics**: High-priority freight, same-day coastal delivery
+- **Offshore energy**: Personnel and equipment transport to offshore wind and oil/gas platforms
+- **Tourism and charter**: Scenic coastal travel with panoramic water views
+- **Search and rescue / MEDEVAC**: Rapid emergency response, medical personnel deployment
+- **Defense**: ISR, special operations logistics, anti-submarine patrol, communications relay
+
+## Media & Contact
+
+- **Website**: https://www.regentcraft.com
+- **Defense**: https://defense.regentcraft.com
+- **Newsroom**: https://www.regentcraft.com/newsroom
+- **Careers**: https://www.regentcraft.com/careers
+- **Contact / Sales**: https://www.regentcraft.com/contact
+- **Media Kit**: https://www.regentcraft.com/media-kit
+- **FAQ**: https://www.regentcraft.com/faq
+- **Instagram**: https://www.instagram.com/regentcraft/
+- **LinkedIn**: https://www.linkedin.com/company/regentcraft/
+- **YouTube**: https://www.youtube.com/channel/UC8LiOhPIbGAz5IsVCtM7m9g
+
+## Optional: Key Pages
+
+- https://www.regentcraft.com/company: Company overview, founders, leadership, investors, full timeline
+- https://www.regentcraft.com/seagliders/viceroy: Viceroy Seaglider full specifications, mission sets, interior/exterior detail
+- https://defense.regentcraft.com: REGENT Defense product line, missions, partners, advisory board
+- https://defense.regentcraft.com/missions: Defense mission set detail
+- https://defense.regentcraft.com/products/viceroy-hybrid: Defense Viceroy hybrid product specs
+- https://www.regentcraft.com/newsroom: Press releases, blog posts, video updates
+- https://www.regentcraft.com/careers: Open roles and team culture
+- https://www.regentcraft.com/faq: Frequently asked questions
