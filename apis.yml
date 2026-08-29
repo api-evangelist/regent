@@ -10,6 +10,9 @@ description: >-
   API contract. It does serve a real, hand-authored llms.txt at its website root, which is the only
   machine-readable artifact on its public surface.
 url: https://raw.githubusercontent.com/api-evangelist/regent/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "REGENT is a vehicle manufacturer rather than a software company: it publishes no developer program, no public API and no machine-readable API contract."
 deliveryModel:
   model: unknown
   open_source: false
