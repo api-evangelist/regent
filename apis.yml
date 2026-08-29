@@ -10,6 +10,17 @@ description: >-
   API contract. It does serve a real, hand-authored llms.txt at its website root, which is the only
   machine-readable artifact on its public surface.
 url: https://raw.githubusercontent.com/api-evangelist/regent/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 image: https://cdn.prod.website-files.com/602ad05d28b6c66eb7baa871/69e7a8ff625bdd33565c703d_OG-min.jpg
 x-type: company
 x-source: harvest:secondary-market
